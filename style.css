@@ -1,93 +1,95 @@
-/* Color provided by: https://github.com/mrmrs/colors */
+@-moz-document url-prefix("https://tools.ietf.org/html/rfc") {
+  /* Color provided by: https://github.com/mrmrs/colors */
 
-.bgblue {
-  background-color: #0074D9;
-}
+  .bgblue {
+    background-color: #0074D9;
+  }
 
-.bggreen {
-  background-color: #2ECC40;
-}
+  .bggreen {
+    background-color: #2ECC40;
+  }
 
-.bgyellow {
-  background-color: #FFDC00;
-}
+  .bgyellow {
+    background-color: #FFDC00;
+  }
 
-.bgorange {
-  background-color: #FF851B;
-}
+  .bgorange {
+    background-color: #FF851B;
+  }
 
-.bgred {
-  background-color: #FF4136;
-}
+  .bgred {
+    background-color: #FF4136;
+  }
 
-.bgwhite {
-  background-color: #FFFFFF;
-}
+  .bgwhite {
+    background-color: #FFFFFF;
+  }
 
-.bggrey {
-  background-color: #AAAAAA;
-}
+  .bggrey {
+    background-color: #AAAAAA;
+  }
 
-.blue {
-  color: #0074D9;
-}
+  .blue {
+    color: #0074D9;
+  }
 
-.green {
-  color: #2ECC40;
-}
+  .green {
+    color: #2ECC40;
+  }
 
-.yellow {
-  color: #FFDC00;
-}
+  .yellow {
+    color: #FFDC00;
+  }
 
-.orange {
-  color: #FF851B;
-}
+  .orange {
+    color: #FF851B;
+  }
 
-.red {
-  color: #FF4136;
-}
+  .red {
+    color: #FF4136;
+  }
 
-.white {
-  color: #FFFFFF;
-}
+  .white {
+    color: #FFFFFF;
+  }
 
-.grey {
-  color: #AAAAAA;
-}
+  .grey {
+    color: #AAAAAA;
+  }
 
-* {
-  margin: 0;
-  padding: 0;
-  color: #111111;
-}
+  * {
+    margin: 0;
+    padding: 0;
+    color: #111111;
+  }
 
-body {
-  margin: 0;
-}
+  body {
+    margin: 0;
+  }
 
-a {
-  color: #0074D9;
-}
+  a {
+    color: #0074D9;
+  }
 
-a:visited {
-  color: #B10DC9;
-}
+  a:visited {
+    color: #B10DC9;
+  }
 
-.pre.noprint.docinfo {
-  width: 662px;
-}
+  .pre.noprint.docinfo {
+    width: 662px;
+  }
 
-div.content {
-  width: 49.7em !important;
-  margin: 0 auto;
-}
+  div.content {
+    width: 49.7em !important;
+    margin: 0 auto;
+  }
 
-pre,
-span.pre {
-  font-size: 1.15em;
-}
+  pre,
+  span.pre {
+    font-size: 1.15em;
+  }
 
-hr {
-  width: inherit !important;
+  hr {
+    width: inherit !important;
+  }
 }
